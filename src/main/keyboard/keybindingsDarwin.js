@@ -25,7 +25,7 @@ export default new Map([
 
   // Edit menu
   ['edit.undo', 'Command+Z'],
-  ['edit.redo', 'Command+Shift+Z'],
+  ['edit.redo', 'Command+Y'],
   ['edit.cut', 'Command+X'],
   ['edit.copy', 'Command+C'],
   ['edit.paste', 'Command+V'],
